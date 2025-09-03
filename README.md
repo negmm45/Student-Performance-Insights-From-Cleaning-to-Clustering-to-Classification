@@ -1,0 +1,2 @@
+# Student-Performance-Insights-From-Cleaning-to-Clustering-to-Classification
+Data Preparation &amp; Data Transformation for (“Student Performance” (649 rows; Math &amp; Portuguese subjects; 30+ features including demographics, study time, absences, G1/G2/G3), and the performing EDA and visualization and then building a machine learning models ( K-mean, Logistic Regression, Decision Tree/Random Forest, SVM) 
